@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dandoleiro
+- 👋 Hi, I’m Giacomo Dandolo
 - 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning Entity-Resolution
 - 💞️ I’m looking to collaborate on project that can increase my knowhow
